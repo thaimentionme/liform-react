@@ -16,6 +16,7 @@
     "form",
     "redux-form"
   ],
+  "prepare": "npm run build",
   "repository": {
     "type": "git",
     "url": "https://github.com/limenius/liform-react.git"
